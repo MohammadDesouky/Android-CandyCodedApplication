@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +153,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start the Store Information Activity">
+      <created>1601803500379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601803500379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start the Store Information Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the Store Information Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1601803286345">
@@ -161,6 +176,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="568" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1601802962406" />
+    <state x="253" y="52" key="CommitChangelistDialog2" timestamp="1601803500090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="253" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1601803500090" />
     <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1601803267185">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -177,9 +196,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601803267184" />
-    <state x="385" y="196" key="search.everywhere.popup" timestamp="1601803274897">
+    <state x="570" y="372" key="VCS.ChangelistChooser" timestamp="1601803465207">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601803274897" />
+    <state x="570" y="372" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1601803465207" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1601803502229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601803502229" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601803690159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1601803690159" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1601803645181" />
   </component>
 </project>
