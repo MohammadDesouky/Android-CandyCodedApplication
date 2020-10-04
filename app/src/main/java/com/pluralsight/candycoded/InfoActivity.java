@@ -28,7 +28,6 @@ public class InfoActivity extends AppCompatActivity {
 
     }
 
-    // ***
     public void createMapIntent(View view) {
         Uri storeUri = Uri.parse(storeUriAsString);
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, storeUri);
@@ -38,8 +37,9 @@ public class InfoActivity extends AppCompatActivity {
         }
     }
 
-
-    // ***
-    // TODO - Task 3 - Launch the Phone Activity
-    // ***
+    public void createPhoneIntent(View view) {
+        Uri callUri = Uri.parse("tel:0123456789");
+        Intent callIntent = new Intent(Intent.ACTION_DIAL, callUri);
+        startActivity(callIntent);
+    }
 }
